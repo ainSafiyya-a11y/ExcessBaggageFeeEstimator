@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Excess Baggage Fee Estimator</string>
+    <string name="title_about">About Baggage Estimator</string>
+
+    <string-array name="ticket_classes">
+        <item>Economy Class (Free Allowance: 20 kg)</item>
+        <item>Business Class (Free Allowance: 40 kg)</item>
+    </string-array>
+</resources>
